@@ -1,5 +1,5 @@
 
-Hi there [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4334074e.gif) , Aniruddha Upadhya K here
+Hi there 👋, Aniruddha Upadhya K here
 ===========================================================================================================================================
 
 Just another guy passionate about Web development while being a tech nerd trying out a bunch of stuffs from Machine Learning to 3D Modelling, simply put passionate about trying new things everyday. Currently in my prefinal year of Electronics and Communications engineering at NMAMIT.
@@ -53,4 +53,4 @@ Just another guy passionate about Web development while being a tech nerd trying
   
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aniruddha-Upadhya-K&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Upadhya-K&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Upadhya-K&theme=dark&hide_border=true)
