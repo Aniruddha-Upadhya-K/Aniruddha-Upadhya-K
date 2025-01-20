@@ -21,13 +21,14 @@ Just another guy passionate about Web development while being a tech nerd trying
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>&nbsp;&nbsp;
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="40" height="40" alt="Neovim" /></a>&nbsp;&nbsp;
+<a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idXHqgWNOX/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40" alt="Nix" /></a>&nbsp;&nbsp;
 
 # What I occasionally play with
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>&nbsp;&nbsp;
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40" alt="Unity" /></a>&nbsp;&nbsp;
